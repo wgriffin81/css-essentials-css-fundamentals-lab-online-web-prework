@@ -33,13 +33,11 @@ nav a {
   margin: 0 auto;
 }
 
-#details {
- display: block;
-}
+
 
 #details div {
   float: left;
-  
+  width: 25%;
   background-color: red;
   text-align: center;
 }
