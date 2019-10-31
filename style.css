@@ -4,11 +4,17 @@ body {
   margin: 0;
   }
 
-header {
-  margin: auto;
+h1{
+  text-align: center;
 }
+
 img {
-  align-self: center;
+  display: block;
+  margin: 0 auto;
+}
+nav,
+figcaption {
+  text-align: center;
 }
 
 nav {
